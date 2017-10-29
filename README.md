@@ -9,4 +9,4 @@ java.lang.BootstrapMethodError: call site initialization exception
 	at java.lang.invoke.CallSite.makeSite(CallSite.java:302)
 	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:307)
 	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:297)
-	at test.TestBug.testBug(TestBug.java:12)
+	at test.TestBug.testBug(TestBug.java:14)
